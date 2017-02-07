@@ -41,6 +41,8 @@ gem 'mini_magick'
 gem 'cloudinary'
 gem 'carrierwave'
 
+gem 'searchkick'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
