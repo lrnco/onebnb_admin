@@ -35,6 +35,10 @@ gem 'jbuilder', '~> 2.5'
 gem 'remotipart', github: 'mshibuya/remotipart'
 gem 'rails_admin', github: 'sferik/rails_admin'
 
+gem 'mini_magick'
+gem 'cloudinary'
+gem 'carrierwave'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
