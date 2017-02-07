@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'remotipart', github: 'mshibuya/remotipart'
 gem 'rails_admin', github: 'sferik/rails_admin'
+gem 'devise'
 
 gem 'mini_magick'
 gem 'cloudinary'
