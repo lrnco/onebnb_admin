@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'remotipart', github: 'mshibuya/remotipart'
 gem 'rails_admin', github: 'sferik/rails_admin'
+gem 'rails_admin_rollincode', '~> 1.0' , :git => 'https://github.com/leonardoscorza/rails_admin_custom_theme.git'
 gem 'devise'
 
 gem 'mini_magick'
